@@ -1,0 +1,9 @@
+{
+  "label": "API管理",
+  "prefix": "/api",
+  "useMock": true,
+  "localPrefix": "",
+  "localUseMock": true,
+  "name": "getRouteList",
+  "url": "/route/list"
+}

@@ -1,0 +1,338 @@
+{
+  "id": "3372416",
+  "name": "zh-admin-vue",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "zh-admin-vue项目",
+  "glyphs": [
+    {
+      "icon_id": "422495",
+      "name": "保存布局",
+      "font_class": "baocunbuju",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "3851339",
+      "name": "布局",
+      "font_class": "buju6",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "4429931",
+      "name": "布局",
+      "font_class": "buju7",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5203221",
+      "name": "布局",
+      "font_class": "buju8",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "5716684",
+      "name": "布局",
+      "font_class": "buju9",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "5881133",
+      "name": "保存布局",
+      "font_class": "baocunbuju1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "6480747",
+      "name": "布局",
+      "font_class": "buju10",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "8454768",
+      "name": "布局",
+      "font_class": "buju11",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "9135341",
+      "name": "布局",
+      "font_class": "buju12",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "11987605",
+      "name": "布局",
+      "font_class": "buju13",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "28268913",
+      "name": "布局",
+      "font_class": "buju14",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "5704710",
+      "name": "布局",
+      "font_class": "charts-buju",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "12210098",
+      "name": "布局",
+      "font_class": "buju5",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "20594688",
+      "name": "快速布局",
+      "font_class": "kuaisubuju",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "17606296",
+      "name": "布局",
+      "font_class": "buju4",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "983771",
+      "name": "布局",
+      "font_class": "weibiaoti550",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "998821",
+      "name": "布局",
+      "font_class": "ai211",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "11264023",
+      "name": "布局",
+      "font_class": "buju2",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "13996850",
+      "name": "布局",
+      "font_class": "buju3",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "21396789",
+      "name": "line-layout （布局）-05",
+      "font_class": "line-layoutbuju-05",
+      "unicode": "e6e6",
+      "unicode_decimal": 59110
+    },
+    {
+      "icon_id": "3739659",
+      "name": "动画",
+      "font_class": "donghua",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "3868287",
+      "name": "账号权限管理",
+      "font_class": "zhanghaoquanxianguanli",
+      "unicode": "eb68",
+      "unicode_decimal": 60264
+    },
+    {
+      "icon_id": "4876789",
+      "name": "首页",
+      "font_class": "shouye-copy-copy",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "7542445",
+      "name": "24gl-chartBarUpward",
+      "font_class": "24gl-chartBarUpward",
+      "unicode": "e846",
+      "unicode_decimal": 59462
+    },
+    {
+      "icon_id": "8288841",
+      "name": "功能",
+      "font_class": "gongneng",
+      "unicode": "e84a",
+      "unicode_decimal": 59466
+    },
+    {
+      "icon_id": "10452238",
+      "name": "web",
+      "font_class": "web",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "28715054",
+      "name": "多级菜单",
+      "font_class": "a-huaban2fuben6",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "34201231",
+      "name": "外部链接  ",
+      "font_class": "waibulianjie",
+      "unicode": "e858",
+      "unicode_decimal": 59480
+    },
+    {
+      "icon_id": "13603528",
+      "name": "下拉",
+      "font_class": "shangla",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "13603534",
+      "name": "上拉",
+      "font_class": "shangla1",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "1493701",
+      "name": "close_light",
+      "font_class": "close_light",
+      "unicode": "e7dc",
+      "unicode_decimal": 59356
+    },
+    {
+      "icon_id": "2966209",
+      "name": "下拉",
+      "font_class": "xiala",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "999117",
+      "name": "布局",
+      "font_class": "ai216",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "8802660",
+      "name": "块布局",
+      "font_class": "kuaibuju",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "9512579",
+      "name": "布局",
+      "font_class": "layout-fill",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "16383220",
+      "name": "布局",
+      "font_class": "buju",
+      "unicode": "e718",
+      "unicode_decimal": 59160
+    },
+    {
+      "icon_id": "20905071",
+      "name": "布局",
+      "font_class": "buju1",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "23238233",
+      "name": "布局-fill",
+      "font_class": "layout-2-fill",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "15838495",
+      "name": "fullscreen-shrink",
+      "font_class": "fullscreen-shrink",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "15838498",
+      "name": "fullscreen-expand",
+      "font_class": "fullscreen-expand",
+      "unicode": "e675",
+      "unicode_decimal": 58997
+    },
+    {
+      "icon_id": "1555845",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "11808058",
+      "name": "menu",
+      "font_class": "menu1",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "21890748",
+      "name": "language-outline",
+      "font_class": "language-outline",
+      "unicode": "e7df",
+      "unicode_decimal": 59359
+    },
+    {
+      "icon_id": "21901378",
+      "name": "language-sharp",
+      "font_class": "language-sharp",
+      "unicode": "e8a9",
+      "unicode_decimal": 59561
+    },
+    {
+      "icon_id": "22095753",
+      "name": "language",
+      "font_class": "language",
+      "unicode": "e9cf",
+      "unicode_decimal": 59855
+    },
+    {
+      "icon_id": "16020747",
+      "name": "折叠2",
+      "font_class": "zhedie2",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "16020767",
+      "name": "折叠1",
+      "font_class": "zhedie1",
+      "unicode": "e621",
+      "unicode_decimal": 58913
+    }
+  ]
+}

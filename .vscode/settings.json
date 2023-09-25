@@ -1,0 +1,8 @@
+{
+    "i18n-ally.localesPaths": [
+        "src/locales",
+        "src/locales/lang"
+    ],
+    "editor.formatOnSave": true,
+    "typescript.tsdk": "node_modules/typescript/lib"
+}

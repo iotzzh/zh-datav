@@ -112,6 +112,15 @@ const clickChangeLayout = () => {
     padding: 0px 25px;
     align-items: center;
     display: flex;
+    color: white;
+
+    .iconfont {
+        color: white;
+    }
+
+    .el-tooltip__trigger {
+        color: white;
+    }
 }
 
 .info .bell {

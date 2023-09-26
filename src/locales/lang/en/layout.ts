@@ -1,7 +1,7 @@
 export default {
-  title: 'Admin Dashboard',
+  title: 'DataV Dashboard',
   headerLeft: {
-    title: 'Admin Dashboard'
+    title: 'DataV Dashboard'
   },
   footer: { onlinePreview: 'Preview', onlineDocument: 'Document' },
   header: {

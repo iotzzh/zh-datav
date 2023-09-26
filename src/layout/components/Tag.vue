@@ -124,11 +124,16 @@ const refresh = async () => {
 
 .tags-box {
     border-bottom: 1px solid rgba(0, 0, 0, 0.1) !important;
-    background-color: white;
+    background-color: #062E47;
     box-sizing: border-box;
     // padding-top: 5px;
     display: flex;
     height: 30px;
+    color: white !important;
+
+    .iconfont {
+        color: white !important;
+    }
 
     .tags-scrollbar {
         flex: 1;

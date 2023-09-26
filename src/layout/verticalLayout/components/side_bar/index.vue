@@ -77,7 +77,7 @@ const { t } = useI18n();
   line-height: $topBarHeight;
   text-align: center;
   vertical-align: middle;
-  background-color: rgb(12, 33, 53) !important;
+  background-color: #00213E !important;
   color: white;
   display: flex;
   padding-left: 7px;
@@ -114,7 +114,10 @@ const { t } = useI18n();
 }
 
 .menu.el-menu-vertical {
-  background-color: rgb(12, 33, 53) !important;
+  // background-color: rgb(12, 33, 53) !important;
+  background: url('../../../../assets/img/bg-4.jpg') !important;
+  background-repeat: no-repeat;
+  background-position-x: center !important;
   --el-menu-text-color: rgb(255, 255, 255, 0.8) !important;
   --el-menu-hover-text-color: red !important;
   --el-menu-bg-color: rgb(12, 33, 53);

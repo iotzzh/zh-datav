@@ -86,7 +86,8 @@ const clickChangeLayout = () => store.setLayout('vertical');
 @import '../../../index.scss';
 
 .nav-bar {
-  background-color: white;
+  // background-color: white;
+  background: url('../../../../assets/img/bg-1.png') !important;
   height: $topBarHeight;
   width: 100%;
   display: flex;
@@ -107,7 +108,7 @@ const clickChangeLayout = () => store.setLayout('vertical');
 
     .scrollbar {
       text-align: right;
-      background-color: #f5f5f5;
+      // background-color: #f5f5f5;
       height: 100%;
 
       &:deep(.el-scrollbar__view) {
@@ -120,7 +121,7 @@ const clickChangeLayout = () => store.setLayout('vertical');
       }
 
       .menu {
-        background-color: $mainColor;
+        // background-color: $mainColor;
         border-bottom: none;
         height: 100%;
         // justify-content: right;
@@ -199,26 +200,31 @@ const clickChangeLayout = () => store.setLayout('vertical');
 
 .el-menu.el-menu--horizontal.menu {
   // background-color: rgb(12,33,53) !important;
-  background-color: white !important;
-  --el-menu-text-color: black !important;
-  --el-menu-hover-text-color: var(--el-color-primary) !important;
+  background-color: transparent !important;
+  // --el-menu-text-color: white !important;
+  // --el-menu-hover-text-color: var(--el-color-primary) !important;
+  // --el-menu-bg-color: rgb(12, 33, 53);
+  // // --el-menu-hover-bg-color: rgba(9,96,189, 0.8) !important;
+  // // --el-menu-hover-bg-color: white !important;
+  // // --el-color-primary
+  // // --el-menu-active-color: rgb(255, 255, 255, 1) !important;
+  // --el-menu-active-color: var(--el-color-primary) !important;
+
+  --el-menu-text-color: rgb(255, 255, 255, 0.8) !important;
+  --el-menu-hover-text-color: red !important;
   --el-menu-bg-color: rgb(12, 33, 53);
-  // --el-menu-hover-bg-color: rgba(9,96,189, 0.8) !important;
-  // --el-menu-hover-bg-color: white !important;
+  --el-menu-hover-bg-color: rgba(9, 96, 189, 0.8) !important;
+
   // --el-color-primary
   // --el-menu-active-color: rgb(255, 255, 255, 1) !important;
-  --el-menu-active-color: var(--el-color-primary) !important;
-
   &:deep(.el-menu-item) {
-    // color: rgb(255, 255, 255, 0.8) !important;
-    color: black !important;
+    color: rgb(255, 255, 255, 0.8) !important;
   }
 
   &:deep(.el-menu-item.is-active) {
-    // color: white !important;
+    color: white !important;
     // background-color: rgba(9,96,189, 0.8);
-    // background-color: var(--el-color-primary);
-    // background-color: white !important;
+    background-color: var(--el-color-primary);
   }
 }
 

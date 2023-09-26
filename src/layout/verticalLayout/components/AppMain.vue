@@ -27,7 +27,9 @@ const { cachedViews } = storeToRefs(store);
   flex: 1;
   height: 100%;
   width: 100%;
-  background-color: rgb(223, 223, 223);
+  // background-color: rgb(223, 223, 223);
+  background: url('../../../assets/img/bg-1.png');
+  padding: 10px;
   box-sizing: border-box;
   overflow: hidden;
 

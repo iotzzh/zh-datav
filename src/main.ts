@@ -8,15 +8,16 @@ import 'splitpanes/dist/splitpanes.css';
 
 import { createApp } from 'vue';
 import { setupStore } from '@/stores/index';
+import 'echarts-gl';
 
-import Particles from "vue3-particles";
+import Particles from 'vue3-particles';
 import { setupRouter } from '@/router/index';
 import ElementPlus from 'element-plus';
 import * as Icons from '@element-plus/icons-vue';
 import locale from 'element-plus/dist/locale/zh-cn.mjs';
 import { setupMock } from '@/mock/index';
 import { setupI18n } from './locales/setupI18n';
-import 'default-passive-events';
+// import 'default-passive-events';
 
 // vex-table
 import 'xe-utils';
